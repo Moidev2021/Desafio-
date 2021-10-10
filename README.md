@@ -2,4 +2,4 @@
 
 ## Desafio Dio
 
-Projetc Car scanner
+Project Car scanner
